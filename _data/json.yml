@@ -1,2 +1,17 @@
 - key: name
-  value: shahryar
+  value: Shahryar Pirooz
+- key: job title
+  value: Software Engineer
+- key: Current Focus
+  value: Web Development and DevOps Engineering
+- key: front-end
+  value: Typescript,  React, NextJS
+- key: back-end
+  value: go(golang)
+- key: interests
+  value:
+    - Cloud computing
+    - Microservices
+    - DevOps
+    - Linux
+    - Open-source
