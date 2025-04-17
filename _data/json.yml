@@ -1,7 +1,8 @@
 - key: Name
   value: Shahryar Pirooz
+  typed: true
 - key: Job Title
-  value: Full-Stack Developer
+  value: Software Engineer
 - key: front-end
   value: 
   - Typescript
