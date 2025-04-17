@@ -8,7 +8,7 @@
   value: Web Development and DevOps Engineering
   
 - key: Skills
-- value:
+  value:
   - key: front-end
     value: 
     - Typescript
@@ -28,7 +28,7 @@
       - Git
       - Redis
 - key: interests
-- value:
+  value:
     - Cloud computing
     - Microservices
     - DevOps
