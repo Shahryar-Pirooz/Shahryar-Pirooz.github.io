@@ -5,7 +5,10 @@
 - key: Current Focus
   value: Web Development and DevOps Engineering
 - key: front-end
-  value: Typescript,  React, NextJS
+  value: 
+  - Typescript
+  - React
+  - NextJS
 - key: back-end
   value: go(golang)
 - key: interests
