@@ -1,11 +1,14 @@
 - key: Name
   value: Shahryar Pirooz
+
   
 - key: Job Title
   value: Software Engineer
+
   
 - key: Current Focus
   value: Web Development and DevOps Engineering
+
   
 - key: Skills
   value:
@@ -27,6 +30,8 @@
       - Docker
       - Git
       - Redis
+
+
 - key: interests
   value:
     - Cloud computing
@@ -34,3 +39,18 @@
     - DevOps
     - Linux
     - Open-source
+
+  
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/shahryar-pirooz/
+    - value: Github
+      url: https://github.com/Shahryar-Pirooz
+
+      
+- key: Contact
+  value:
+    - key: Email
+      value: dev.shahryar@gmail.com
+      url: "mailto:dev.shahryar@gmail.com"
