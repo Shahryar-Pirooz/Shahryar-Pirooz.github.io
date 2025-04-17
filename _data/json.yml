@@ -27,5 +27,5 @@
     - value: Github
       url: https://github.com/Shahryar-Pirooz 
 - key: Email
-    value: dev.shahryar@gmail.com
-    url: "mailto:dev.shahryar@gmail.com"
+  value: dev.shahryar@gmail.com
+  url: "mailto:dev.shahryar@gmail.com"
