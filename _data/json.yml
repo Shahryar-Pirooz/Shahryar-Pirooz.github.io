@@ -1,19 +1,11 @@
 - key: Name
   value: Shahryar Pirooz
-
-  
 - key: Job Title
   value: Software Engineer
-
-  
-- key: Current Focus
-  value: Web Development and DevOps Engineering
-
-  
 - key: front-end
   value: 
   - Typescript
-  - React
+  - ReactJS
   - NextJS
 - key: back-end
   value: go(golang)
@@ -28,24 +20,12 @@
     - Docker
     - Git
     - Redis
-
-
-# - key: interests
-#   value:
-#     - Cloud computing
-#     - Microservices
-#     - DevOps
-#     - Linux
-#     - Open-source
-
 - key: Profiles
   value:
     - value: LinkedIn
       url: https://www.linkedin.com/in/shahryar-pirooz/
     - value: Github
-      url: https://github.com/Shahryar-Pirooz
-
-      
+      url: https://github.com/Shahryar-Pirooz 
 - key: Email
     value: dev.shahryar@gmail.com
     url: "mailto:dev.shahryar@gmail.com"
