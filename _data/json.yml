@@ -1,18 +1,34 @@
-- key: name
+- key: Name
   value: Shahryar Pirooz
-- key: job title
+  
+- key: Job Title
   value: Software Engineer
+  
 - key: Current Focus
   value: Web Development and DevOps Engineering
-- key: front-end
-  value: 
-  - Typescript
-  - React
-  - NextJS
-- key: back-end
-  value: go(golang)
+  
+- key: Skills
+- value:
+  - key: front-end
+    value: 
+    - Typescript
+    - React
+    - NextJS
+  - key: back-end
+    value: go(golang)
+  - key: database
+    value: 
+    - PostgreSQL
+    - MariaDB
+    - MongoDB
+  - key: tools
+    value:
+      - Linux
+      - Docker
+      - Git
+      - Redis
 - key: interests
-  value:
+- value:
     - Cloud computing
     - Microservices
     - DevOps
