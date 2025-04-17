@@ -10,26 +10,24 @@
   value: Web Development and DevOps Engineering
 
   
-- key: Skills
+- key: front-end
+  value: 
+  - Typescript
+  - React
+  - NextJS
+- key: back-end
+  value: go(golang)
+- key: database
+  value: 
+  - PostgreSQL
+  - MariaDB
+  - MongoDB
+- key: tools
   value:
-  - key: front-end
-    value: 
-    - Typescript
-    - React
-    - NextJS
-  - key: back-end
-    value: go(golang)
-  - key: database
-    value: 
-    - PostgreSQL
-    - MariaDB
-    - MongoDB
-  - key: tools
-    value:
-      - Linux
-      - Docker
-      - Git
-      - Redis
+    - Linux
+    - Docker
+    - Git
+    - Redis
 
 
 - key: interests
