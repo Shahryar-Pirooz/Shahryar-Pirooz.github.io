@@ -30,15 +30,14 @@
     - Redis
 
 
-- key: interests
-  value:
-    - Cloud computing
-    - Microservices
-    - DevOps
-    - Linux
-    - Open-source
+# - key: interests
+#   value:
+#     - Cloud computing
+#     - Microservices
+#     - DevOps
+#     - Linux
+#     - Open-source
 
-  
 - key: Profiles
   value:
     - value: LinkedIn
