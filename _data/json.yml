@@ -1,6 +1,5 @@
 - key: Name
   value: Shahryar Pirooz
-  typed: true
 - key: Job Title
   value: Software Engineer
 - key: front-end
@@ -8,6 +7,7 @@
   - Typescript
   - ReactJS
   - NextJS
+  typed: true
 - key: back-end
   value: go(golang)
 - key: database
@@ -30,3 +30,4 @@
 - key: Email
   value: dev.shahryar@gmail.com
   url: "mailto:dev.shahryar@gmail.com"
+  
